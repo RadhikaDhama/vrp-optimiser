@@ -28,6 +28,7 @@ Efficiently assign delivery points to multiple vehicles while minimizing total t
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ## 🔧 Tech Stack
 - Python 3
