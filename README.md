@@ -43,4 +43,4 @@ streamlit run app.py
 - Multi-depot routing
 
 ## 🌐 Live Demo
-https://vrp-optimiser-eqbhkzlumt2l2trrqzac4v.streamlit.ap
+https://vrp-optimiser-eqbhkzlumt2l2trrqzac4v.streamlit.app/
