@@ -41,3 +41,6 @@ streamlit run app.py
 - OR-Tools exact solver for small N
 - Live GPS coordinates via API
 - Multi-depot routing
+
+## 🌐 Live Demo
+https://vrp-optimiser-eqbhkzlumt2l2trrqzac4v.streamlit.ap
