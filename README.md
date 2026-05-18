@@ -2,10 +2,10 @@
 
 A simulation tool to optimize delivery routes under vehicle capacity constraints using heuristic algorithms.
 
-## 🧠 Problem
+## Problem
 Efficiently assign delivery points to multiple vehicles while minimizing total travel distance and respecting capacity constraints.
 
-## ⚙️ Approach
+## Approach
 - Greedy Nearest Neighbor (baseline)
 - 2-opt Local Search (optimization)
 - Random Baseline (for benchmarking)
@@ -19,28 +19,28 @@ Efficiently assign delivery points to multiple vehicles while minimizing total t
   - Balance Load
   - Minimize Vehicles
 
-## 📊 Results
+##  Results
 - Achieved ~25–40% improvement over random baseline
 - Demonstrates trade-offs between efficiency and resource utilization
 
-## ▶️ Run Locally
+## Run Locally
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 🔧 Tech Stack
+## Tech Stack
 - Python 3
 - NumPy — distance calculations
 - Matplotlib — route visualization  
 - Streamlit — interactive dashboard
 
-## 🔭 Real-World Extensions
+##  Real-World Extensions
 - Time windows per delivery (VRPTW)
 - OR-Tools exact solver for small N
 - Live GPS coordinates via API
 - Multi-depot routing
 
-## 🌐 Live Demo
+##  Live Demo
 https://vrp-optimiser-eqbhkzlumt2l2trrqzac4v.streamlit.app/
