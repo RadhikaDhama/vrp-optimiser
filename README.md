@@ -10,7 +10,7 @@ Efficiently assign delivery points to multiple vehicles while minimizing total t
 - 2-opt Local Search (optimization)
 - Random Baseline (for benchmarking)
 
-## 🚀 Features
+## Features
 - Multi-vehicle routing (VRP)
 - Capacity constraints
 - Interactive Streamlit dashboard
